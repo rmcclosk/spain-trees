@@ -1,0 +1,7 @@
+*.csv
+*.dat
+*.pdf
+*.fasta
+*.nwk
+*RAxML*
+__pycache__
